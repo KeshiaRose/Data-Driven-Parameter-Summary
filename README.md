@@ -1,3 +1,5 @@
+>**This version of the extension is for testing. Please go to the [Extension Gallery](https://extensiongallery.tableau.com/products/27) for the latest official version.**
+
 # Data-Driven Parameters
 This extension allows you to add a parameter to a Tableau dashboard whose domain is based on your data. Added a new product line? No longer do you need to manually edit the parameter to update it, with this extension your parameter values update automatically!
 
