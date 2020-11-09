@@ -1,4 +1,4 @@
-![This repo is deprecated!!!](https://img.shields.io/badge/Status-Deprecated-Red)
+![This repo is deprecated!!!](https://img.shields.io/badge/Status-Deprecated-red)
 >**This version of the extension is for testing. Please go to the [Extension Gallery](https://extensiongallery.tableau.com/products/27) for the latest official version.**
 
 # Data-Driven Parameters
